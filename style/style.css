@@ -133,6 +133,7 @@ body{
 }
 
 .t1{ left: 0;}
+.t2{ left: 200px;}
 .p1{bottom: 0;}
 .p2{bottom: 35px;}
 .p3{bottom: 70px;}
@@ -144,3 +145,13 @@ body{
 .d3{width: 130px; margin-left: 35px;}
 .d4{width: 110px; margin-left: 45px;}
 .d5{width: 80px; margin-left: 55px;}
+
+/* animation drag */
+
+.invisble{
+    display: none;
+}
+
+.enter{
+    border: dashed 2px rgb(121, 119, 119);
+}
